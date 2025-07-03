@@ -7,7 +7,7 @@
 
 ---
 
-I'm a detail-oriented and passionate Computer Programming Technology student at Texas State Technical College, graduating in August 2025 with a 4.0 GPA. With a strong foundation in C, C#, Java, and web development, I enjoy building intuitive user interfaces, solving logical challenges, and continuously learning new technologies.
+I'm a detail-oriented and passionate Computer Programming Technology student at Texas State Technical College with a strong foundation in C, C#, Java, and web development, I enjoy building intuitive user interfaces, solving logical challenges, and continuously learning new technologies.
 
 My background includes eight years of customer service and leadership experience, which sharpened my communication, adaptability, and ability to thrive under pressure—skills I now bring to every coding project and team collaboration.
 
