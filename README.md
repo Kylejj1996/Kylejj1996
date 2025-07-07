@@ -6,7 +6,7 @@
 
 I'm a detail-oriented and passionate Computer Programming Technology student at Texas State Technical College with a strong foundation in C, C#, Java, and web development, I enjoy building intuitive user interfaces, solving logical challenges, and continuously learning new technologies.
 
-My background includes eight years of customer service and leadership experience, which sharpened my communication, adaptability, and ability to thrive under pressure—skills I now bring to every coding project and team collaboration.
+My background includes eight years of customer service and leadership experience, which sharpened my communication, adaptability, and ability to thrive under pressure—skills I now bring to every coding project.
 
 ---
 
@@ -44,6 +44,5 @@ My background includes eight years of customer service and leadership experience
 - **Java Developer** – Texas State Technical College *(April 2025)*  
 - **Mobile App Developer** – Texas State Technical College *(April 2025)*
 
-Whether I'm working solo or collaborating on a team project, I bring a strong work ethic, attention to detail, and an eagerness to improve. I'm actively seeking **entry-level or internship opportunities** where I can contribute, grow, and keep learning.
 
 > 💬 Feel free to check out my projects or reach out to connect!
