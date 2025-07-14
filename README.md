@@ -39,6 +39,9 @@ My background includes eight years of customer service and leadership experience
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kylejj1996)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## 🛠️ Certifications
 - **Software Developer** – Texas State Technical College *(April 2025)*  
 - **Java Developer** – Texas State Technical College *(April 2025)*  
