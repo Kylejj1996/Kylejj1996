@@ -1,5 +1,5 @@
 ![Alternate 'text' description for the image](/Images/Banner.png "Profile Banner")
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kylejj1996)
+[![Portfolio Website](https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](https://kylejj1996.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyle-johnson-845718335/)
 
 ---
@@ -46,7 +46,7 @@ Before entering tech, I spent eight years in customer service and leadership rol
 - **Software Developer** – Texas State Technical College *(April 2025)*  
 - **Java Developer** – Texas State Technical College *(April 2025)*  
 - **Mobile App Developer** – Texas State Technical College *(April 2025)*
-
+- 
 ---
 
 ## 🤝 Let's Connect  
