@@ -4,7 +4,7 @@
 
 ---
 ## Hi there 👋, my name is Kyle Johnson
-I'm a passionate **Software Developer** with a strong foundation in **C, C#, Java, and full-stack web development**. I enjoy creating intuitive user interfaces, tackling complex problems, and learning new technologies to continually sharpen my skills.  
+I'm a passionate **Software Developer** with a strong foundation in **C, C#, Java, and web development**. I enjoy creating intuitive user interfaces, tackling complex problems, and learning new technologies to continually sharpen my skills.  
 
 My journey into software development began two years ago—and I haven’t looked back since. Whether it's building applications from the ground up or fine-tuning backend logic, I find joy in every step of the development process.
 
