@@ -46,7 +46,7 @@ Before entering tech, I spent eight years in customer service and leadership rol
 - **Software Developer** – Texas State Technical College *(April 2025)*  
 - **Java Developer** – Texas State Technical College *(April 2025)*  
 - **Mobile App Developer** – Texas State Technical College *(April 2025)*
-- 
+  
 ---
 
 ## 🤝 Let's Connect  
