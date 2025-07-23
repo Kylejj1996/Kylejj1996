@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyle-johnson-845718335/)
 
 TEST
-[![Portfolio Website](https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)]([https://kylejj1996.github.io/](https://kylejj1996.github.io/Test/))
+[![Portfolio Website](https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](https://kylejj1996.github.io/Test/)
 
 ---
 ## Hi there 👋, my name is Kyle Johnson
