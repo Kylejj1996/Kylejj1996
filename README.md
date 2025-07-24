@@ -2,9 +2,6 @@
 [![Portfolio Website](https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](https://kylejj1996.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyle-johnson-845718335/)
 
-TEST
-[![Portfolio Website](https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](https://kylejj1996.github.io/Test/)
-
 ---
 ## Hi there 👋, my name is Kyle Johnson
 I'm a passionate **Software Developer** with a strong foundation in **C, C#, Java, and web development**. I enjoy creating intuitive user interfaces, tackling complex problems, and learning new technologies to continually sharpen my skills.  
